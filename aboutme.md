@@ -17,3 +17,7 @@ To be honest, I'm having some trouble remembering right now, so why don't you re
 <div class="row">
     	<img src="/img/OFFSHORE_CERT_RIDIL.png"/>
 </div>
+
+<div class="row">
+    	<img src="/img/RASTALABS_CERT_RIDIL.png"/>
+</div>
