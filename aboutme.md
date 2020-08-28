@@ -11,7 +11,7 @@ What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you reach me at [ridil.sec@gmail.com](mailto:ridil.sec@gmail.com) or on my [Twitter Account](https://twitter.com/ridaidil) and i will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you reach me at [rida.idil@protonmail.com](mailto:rida.idil@protonmail.com) or on my [Twitter Account](https://twitter.com/ridaidil) and i will answer **all** your questions.
 
  
 <div class="row">
