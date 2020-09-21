@@ -15,9 +15,9 @@ To be honest, I'm having some trouble remembering right now, so why don't you re
 
  
 <div class="row">
-    	<img src="/img/OFFSHORE_CERT_RIDIL.png"/>
+    	<img src="/img/OFFSHORE_CERT_RIDIL_1.png"/>
 </div>
 
 <div class="row">
-    	<img src="/img/RASTALABS_CERT_RIDIL.png"/>
+    	<img src="/img/RASTALABS_CERT_RIDIL_1.png"/>
 </div>
