@@ -15,9 +15,13 @@ To be honest, I'm having some trouble remembering right now, so why don't you re
 
  
 <div class="row">
-    	<img src="/img/OFFSHORE_CERT_RIDIL_1.png"/>
+    	<img src="/img/OFFSHORE_CERT_RIDA_IDIL_1.png"/>
 </div>
 
 <div class="row">
-    	<img src="/img/RASTALABS_CERT_RIDIL_1.png"/>
+    	<img src="/img/RASTALABS_CERT_RIDA_IDIL_1.png"/>
+</div>
+
+<div class="row">
+    	<img src="/img/CYBERNETICS_CERT_RIDA_IDIL_1.png"/>
 </div>
