@@ -15,13 +15,17 @@ To be honest, I'm having some trouble remembering right now, so why don't you re
 
  
 <div class="row">
-    	<img src="/img/OFFSHORE_CERT_RIDA_IDIL_1.png"/>
+    	<img alt="OFFSOHRE Certificate - Rida IDIL" title="OFFSOHRE Certificate - Rida IDIL" src="/img/OFFSHORE_CERT_RIDA_IDIL.png"/>
 </div>
 
 <div class="row">
-    	<img src="/img/RASTALABS_CERT_RIDA_IDIL_1.png"/>
+    	<img alt="RASTALABS Certificate - Rida IDIL" title="RASTALABS Certificate - Rida IDIL" src="/img/RASTALABS_CERT_RIDA_IDIL.png"/>
 </div>
 
 <div class="row">
-    	<img src="/img/CYBERNETICS_CERT_RIDA_IDIL_1.png"/>
+    	<img alt="CYBERNETICS Certificate - Rida IDIL" title="CYBERNETICS Certificate - Rida IDIL" src="/img/CYBERNETICS_CERT_RIDA_IDIL.png"/>
+</div>
+
+<div class="row">
+    	<img alt="DANTE Certificate - Rida IDIL" title="DANTE Certificate - Rida IDIL" src="/img/DANTE_CERT_RIDA_IDIL.png"/>
 </div>
