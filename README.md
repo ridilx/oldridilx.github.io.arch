@@ -1,3 +1,3 @@
-# ridilx.github.io (https://ridil.fr)
+# ridilx.github.io (https://blog.ridil.fr)
 
-Source code for my blog @ ridil.fr
+Source code for my blog @ blog.ridil.fr
